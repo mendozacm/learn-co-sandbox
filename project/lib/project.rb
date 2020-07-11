@@ -1,3 +1,0 @@
-require "project/version"
-
-he
